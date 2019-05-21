@@ -1,0 +1,2 @@
+export const ST_ENTER_INFO = "ST_ENTER_INFO";
+export const ST_COLLECT_WORDS = "ST_COLLECT_WORDS";
